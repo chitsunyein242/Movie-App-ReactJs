@@ -56,6 +56,10 @@ Movie-App/
 └── vite.config.js
 ```
 
+
+## 🔗 Live Demo
+[👉 Click here to look Movie App](https://chitsunyein242.github.io/Movie-App-ReactJs/)
+
 ````
 
 ---
@@ -65,8 +69,8 @@ Movie-App/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/chitsunyein242/Movie-App-ReactJs.git
+cd Movie-App-ReactJs
 ````
 
 ### 2️⃣ Install dependencies
